@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^xgb\.data$
+^xgb\.buffer$
+^.*\.buffer$
+^.*\.model$
+^data-raw$
